@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CheckLishHasLoop4/bin/Debug/netcoreapp2.1
+/CheckLishHasLoop4/obj
+/CheckListIsPalindrome10/bin/Debug/netcoreapp2.1
+/CheckListIsPalindrome10/obj
+/FindMidNode1/bin/Debug/netcoreapp2.1
+/FindMidNode1/obj
+/MergeTwoSortedLists6/bin/Debug/netcoreapp2.1
+/MergeTwoSortedLists6/obj
+/NthNodeFromEnd5/bin/Debug/netcoreapp2.1
+/NthNodeFromEnd5/obj
+/PairWiseSwap8/bin/Debug/netcoreapp2.1
+/PairWiseSwap8/obj
+/ReverseKNodes3/bin/Debug/netcoreapp2.1
+/ReverseKNodes3/obj
+/RotateKnodesCounterClock2/bin/Debug/netcoreapp2.1
+/RotateKnodesCounterClock2/obj
+/SumOfLinkedList9/bin/Debug/netcoreapp2.1
+/SumOfLinkedList9/obj
